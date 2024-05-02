@@ -1,6 +1,6 @@
 # Pointless Converter
 
-Welcome to the Pointless Converter application, where we turn ordinary measurements into fun and whimsical units. This GUI-based tool allows users to convert standard measurements into "pointless" sizes such as the length of a Dorito, the height of an average Turkish grandmother, and many more.
+Welcome to the Pointless Converter application, where we turn ordinary measurements into fun and whimsical units. This GUI-based tool allows users to convert standard measurements into "pointless" sizes such as the length of a Dorito, the height of an average Turkish grandmother, and many more. Yes before anyone asks, I was very bored while waiting for my pizza to arrive, so I wrote this as a joke, and it worked....... it has been 3 hours and we have been laughing nonstop calculating how many f
 
 ![Sample](https://raw.githubusercontent.com/WhiskeyCoder/Pointless-Converter/main/Universal%20Converter.png)
 
@@ -24,7 +24,9 @@ sudo apt-get install python3-tk
 
 ## Running the Application
 To run the Pointless Converter, download the source code and run the following command in your terminal:
-```python pointless_converter.py```
+```bash
+python pointless_converter.py
+```
 
 # Usage
 When you launch the Pointless Converter, you will see the following fields:
