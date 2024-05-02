@@ -1,6 +1,6 @@
 # Pointless Converter
 
-Welcome to the Pointless Converter application, where we turn ordinary measurements into fun and whimsical units. This GUI-based tool allows users to convert standard measurements into "pointless" sizes such as the length of a Dorito, the height of an average Turkish grandmother, and many more. Yes before anyone asks, I was very bored while waiting for my pizza to arrive, so I wrote this as a joke, and it worked....... it has been 3 hours and we have been laughing nonstop calculating how many f
+Welcome to the Pointless Converter application, where we turn ordinary measurements into fun and whimsical units. This GUI-based tool allows users to convert standard measurements into "pointless" sizes such as the length of a Dorito, the height of an average Turkish grandmother, and many more. Yes before anyone asks, I was very bored while waiting for my pizza to arrive, so I wrote this as a joke, and it worked....... it has been 3 hours and we have been laughing nonstop calculating how many friends tall is the empire estate building
 
 ![Sample](https://raw.githubusercontent.com/WhiskeyCoder/Pointless-Converter/main/Universal%20Converter.png)
 
